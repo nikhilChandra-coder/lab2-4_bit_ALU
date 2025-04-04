@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Mar  6 18:57:24 2025
+# Process ID: 2920003
+# Current directory: /home/user/Downloads/Lab2/Lab2.runs/impl_1
+# Command line: vivado -log alu_tester.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source alu_tester.tcl -notrace
+# Log file: /home/user/Downloads/Lab2/Lab2.runs/impl_1/alu_tester.vdi
+# Journal file: /home/user/Downloads/Lab2/Lab2.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source alu_tester.tcl -notrace
