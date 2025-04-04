@@ -1,0 +1,1 @@
+-wto "9e6e68461b1a4f04899a6edc68238d7e" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "ripple_adder_tb_behav" "xil_defaultlib.ripple_adder_tb" -log "elaborate.log" 

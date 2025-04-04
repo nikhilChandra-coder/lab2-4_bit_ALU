@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/user/Downloads/Lab2/Lab2.srcs/sources_1/new/adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/user/Downloads/Lab2/Lab2.srcs/sources_1/new/ripple_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ripple_adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/user/Downloads/Lab2/Lab2.srcs/sim_1/new/ripple_adder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ripple_adder_tb'
